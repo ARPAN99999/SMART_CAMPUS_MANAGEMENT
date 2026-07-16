@@ -120,14 +120,14 @@ The application will open in your browser.
 
 ## 💬 Example Questions
 
-- Where is the Computer Science department?
-- Show today's events.
-- Who is the HOD of IT?
-- What are the library timings?
-- Where is the admission office?
-- Tell me about campus facilities.
-- What is today's class schedule?
-
+📊 Attendance
+What is my attendance?
+📅 Timetable
+Show me the timetable for Monday.
+📚 Library
+What books have I borrowed?
+🧭 Campus Navigation
+Where is the library?
 ---
 
 ## 📸 Application Preview
